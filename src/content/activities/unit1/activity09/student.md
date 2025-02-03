@@ -4,7 +4,7 @@
 ``` js
 function setup() {
   createCanvas(600, 600);
-  noLoop(); // Dibuja una vez y se detiene
+  noLoop();
 }
 
 function draw() {
@@ -46,7 +46,6 @@ function drawPattern(x, y, radius, angleOffset) {
   endShape(CLOSE);
 }
 
-// Regenerar patrón al hacer clic
 function mousePressed() {
   redraw();
 }
