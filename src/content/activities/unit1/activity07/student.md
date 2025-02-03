@@ -1,6 +1,6 @@
 #### Actividad 7
 
-''''
+``` js
 function setup() {
   createCanvas(600, 600);
   noLoop(); // Dibuja una vez y se detiene
@@ -49,4 +49,4 @@ function drawPattern(x, y, radius, angleOffset) {
 function mousePressed() {
   redraw();
 }
-''''
+```
