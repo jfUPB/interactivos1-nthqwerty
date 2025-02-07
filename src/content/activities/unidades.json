@@ -14,10 +14,10 @@
       { "nombre": "actividad10", "estado": "En progreso", "fase": "apply", "aprobado": "no" },
       { "nombre": "actividad11", "estado": "No iniciada", "fase": "apply", "aprobado": "no" },
       { "nombre": "actividad12", "estado": "No iniciada", "fase": "apply", "aprobado": "no" },
-      { "nombre": "actividad13", "estado": "Completa", "fase": "reflect", "aprobado": "no" },
-      { "nombre": "actividad14", "estado": "Completa", "fase": "reflect", "aprobado": "no" },
+      { "nombre": "actividad13", "estado": "Completada", "fase": "reflect", "aprobado": "no" },
+      { "nombre": "actividad14", "estado": "Completada", "fase": "reflect", "aprobado": "no" },
       { "nombre": "actividad15", "estado": "En progreso", "fase": "reflect", "aprobado": "no" },
-      { "nombre": "actividad16", "estado": "Completa", "fase": "reflect", "aprobado": "no" }
+      { "nombre": "actividad16", "estado": "Completada", "fase": "reflect", "aprobado": "no" }
     ]
   },
   {
