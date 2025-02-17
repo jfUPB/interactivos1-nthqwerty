@@ -49,10 +49,6 @@ function setup() {
 
 function draw() {
   background(220);
-  textAlign(CENTER, CENTER);
-  textSize(16);
-  fill(0);
-  text("Usa los botones físicos del micro:bit:\n- Botón A: CONFUSED\n- Botón B: ANGRY\n- Sacude: ASLEEP\n\nO presiona 'Send Love' para SURPRISED", width / 2, height / 2);
 }
 
 function connectBtnClick() {
