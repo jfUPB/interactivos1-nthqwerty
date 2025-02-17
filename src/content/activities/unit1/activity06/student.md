@@ -10,10 +10,10 @@ Analisando el codigo y su coneccion con el micro:bit, se puede ver que al inicia
 
 **Describe qué pasa en el punto 16 y cómo crees que esto se logre.**
 
--Al sacudir el micro:bit, este manda una señal con el caracter 'C', haciendo que la esfera se vuelva de color verde.
+- Al sacudir el micro:bit, este manda una señal con el caracter 'C', haciendo que la esfera se vuelva de color verde.
 
 **Describe qué pasa en el punto 17 y cómo crees que esto se logre.**
 
--Al presionar el boton 'Send Love, se manda una señal con el caracter 'H' y el micro:bit muestra una mariposa, espera 500ms y por ultimo muestra una cara feliz.
+- Al presionar el boton 'Send Love, se manda una señal con el caracter 'H' y el micro:bit muestra una mariposa, espera 500ms y por ultimo muestra una cara feliz.
 
 
