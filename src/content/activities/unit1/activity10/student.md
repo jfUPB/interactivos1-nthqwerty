@@ -6,7 +6,7 @@ let changeColorBtn;
 
 function setup() {
   createCanvas(400, 400);
-  squareColor = color(255, 0, 0); // rojo
+  squareColor = color(255, 0, 0);
   changeColorBtn = createButton('Cambiar Color');
   changeColorBtn.position(150, 420);
   changeColorBtn.mousePressed(changeSquareColor);
