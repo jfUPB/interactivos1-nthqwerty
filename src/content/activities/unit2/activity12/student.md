@@ -9,7 +9,7 @@ STATE_CONFIG = 0
 STATE_COUNTDOWN = 1
 STATE_EXPLODED = 2
 
-initial_time = 20  # Tiempo inicial en segundos
+initial_time = 20 
 current_state = STATE_CONFIG
 start_time = 0
 
