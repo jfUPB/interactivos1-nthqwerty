@@ -38,7 +38,6 @@ while True:
             current_state = STATE_EXPLODED
             music.play(music.FUNK)
         if pin_logo.is_touched():
-            # Espera a que se suelte el sensor táctil
             while pin_logo.is_touched():
                 utime.sleep(50)
             current_state = STATE_CONFIG
