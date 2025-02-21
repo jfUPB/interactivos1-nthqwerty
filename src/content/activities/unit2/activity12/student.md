@@ -29,7 +29,7 @@ while True:
             start_time = utime.ticks_ms()
     
     elif current_state == STATE_COUNTDOWN:
-        elapsed = utime.ticks_diff(utime.ticks_ms(), start_time) // 1000
+        elapsed = utime.ticks_diff(utime.ticks_ms(), start_time)
         remaining = initial_time - elapsed
         if remaining < 0:
             remaining = 0
