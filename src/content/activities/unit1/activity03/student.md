@@ -1,0 +1,3 @@
+#### Actividad 3
+
+El diseño generativo es una forma innovadora en la cual las empresas e individuos pueden crear nuevos diseños, narrativas y experiencias flexibles; experiencias que reaccionan, evolucionan y "respiran". Al momento en el que vemos a la tecnologia como una compañera en lugar de una herramienta, se abren puertas a nuevos metodos de creacion entre el hombre, la maquina y el entorno. Mediante el uso de algoritmos y data, la maquina puede empezar a crear miles de variaciones en un instante, constantemente aprendiendo y adaptandose a nuestro objetivo con cada accion. La clave de este proceso es abrirse a nuevas posibilidades de storytelling con la ayuda de la tecnologia.
