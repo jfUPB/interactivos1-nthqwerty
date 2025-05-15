@@ -31,3 +31,29 @@
 
 Tras cada corrección, se volvieron a ejecutar todos los casos de prueba desde el inicio para asegurarse de que el sistema funcionara correctamente en su totalidad.
 
+**Análisis sobre la Máquina de Estados y Pruebas de Regresión** *(versión parafraseada)*
+
+**¿Por qué la técnica de máquina de estados resulta eficaz para lograr escalabilidad, especialmente en escenarios con concurrencia y múltiples eventos?**
+
+* Permite un control claro y ordenado de eventos simultáneos al establecer comportamientos específicos por estado.
+* Favorece el diseño modular, haciendo posible añadir nuevos estados y transiciones sin comprometer la lógica ya implementada.
+* Facilita la identificación y resolución de errores, ya que cada estado tiene reglas delimitadas que simplifican el análisis del comportamiento del sistema.
+
+**Fortalezas y debilidades del enfoque de pruebas aplicado**
+
+**Ventajas:**
+
+* Garantiza que se evalúen todos los estados definidos, validando así el comportamiento completo del sistema.
+* Permite detectar fallos tanto en las transiciones entre estados como en eventos inesperados.
+* Contribuye al refinamiento y mantenimiento del código al facilitar su depuración.
+
+**Desventajas:**
+
+* Puede ser un proceso largo y repetitivo.
+* No siempre permite encontrar errores relacionados con la integración general del sistema, como los que surgen en la comunicación por UART entre micro\:bit y p5.js.
+
+**¿Por qué son cruciales las pruebas de regresión?**
+
+* Verifican que los cambios o nuevas funciones no interrumpan funcionalidades que antes operaban correctamente.
+* Son clave para descubrir fallos ocultos en rutas que parecían estables.
+* Resultan esenciales en aplicaciones con múltiples entradas y concurrencia, donde una modificación menor —como un sensor o evento— podría desencadenar errores en otras partes del sistema.
