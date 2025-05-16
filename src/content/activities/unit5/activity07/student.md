@@ -1,0 +1,7 @@
+#### Actividad 7
+
+He encontrado muy útil aprender a diseñar el framing con header (0xAA) y checksum para alinear paquetes y descartar datos corruptos: sin embargo, echo en falta casos de prueba más realistas, por ejemplo, enviar intencionadamente paquetes con bits alterados para asegurar que nuestra rutina while (serialBuffer.length >= 8) y la validación de checksum realmente los detecten y los descarten. Practicar con secuencias como 0xAA 01 F4 00 00 FF <checksum inválido> reforzaría mi capacidad de identificar y manejar errores de transmisión en situaciones reales.
+
+Otra mejora sería incorporar herramientas de depuración avanzadas: por ejemplo, usar la extensión Hex Dump de VS Code o la consola de desarrollo de p5.js para inspeccionar el contenido de serialBuffer en tiempo real. Así podría ver directamente cómo cambia el buffer al ejecutar serialBuffer.shift() y serialBuffer.splice(0,8), comprobando paso a paso que estoy extrayendo correctamente los paquetes y no perdiendo bytes que luego provoquen desincronización.
+
+En general, esta unidad ha sido excelente para asentar los conceptos de manipulación de datos binarios y buffers circulares, pero me gustaría enlazarlo aún más con aplicaciones físicas—por ejemplo, leer datos de un sensor de temperatura en un microcontrolador real usando CRC-32 o implementar retransmisiones automáticas tras un NACK en la comunicación bidireccional—para cerrar la brecha entre la simulación y proyectos de hardware que enfrenten ruidos y pérdidas de paquete en entornos reales.
