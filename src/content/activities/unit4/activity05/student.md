@@ -1,13 +1,13 @@
-Enlace a la aplicación original sin modificar, pero recreada en el editor de p5.js
+-Enlace a la aplicación original sin modificar, pero recreada en el editor de p5.js
 https://p5js.org/examples/repetition-kaleidoscope/
 
-Muestra el código de p5.js para la versión modificada
+-Muestra el código de p5.js para la versión modificada
 https://editor.p5js.org/nthqwerty/sketches/ZobnDMLgv
 
-Enlace a la aplicación modificada en el editor de p5.js
+-Enlace a la aplicación modificada en el editor de p5.js
 https://editor.p5js.org/nthqwerty/sketches/my3tCdycN
 
-Muestra capturas de pantalla del canvas de tu aplicación modificada
+-Capturas de pantalla del canvas de tu aplicación modificada
 
 ![image](https://github.com/user-attachments/assets/394f4401-91ff-4b84-94be-e36caaa9db75)
 
