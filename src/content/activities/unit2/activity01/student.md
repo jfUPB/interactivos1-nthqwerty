@@ -1,0 +1,3 @@
+#### Actividad 1
+
+Los microcontroladores son clave en el perfil de un Ingeniero en Diseño de Entretenimiento Digital, ya que permiten crear experiencias interactivas en hardware especializado. Se usan en videojuegos para desarrollar consolas retro, mandos con sensores y dispositivos hápticos. En realidad virtual y aumentada, facilitan el control de guantes y sensores de movimiento. También son esenciales en robótica y animatrónica, como en parques temáticos y escape rooms. Además, en arte digital, permiten instalaciones interactivas con sensores y luces. Por ello, estos ingenieros deben dominar la programación y el diseño de hardware para innovar en el entretenimiento.

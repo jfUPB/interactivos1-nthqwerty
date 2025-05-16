@@ -1,0 +1,3 @@
+#### Actividad 15
+
+Con el transcurso de las actividades en la seccion APPLY pude pulir cada vez mas mis habilidades para utilizar y programar el micro:bit. Al final, me resulto relativamente facil e intuitivo como funcionaba este. A pesar de esto, siento que hay muchas mas posiblidades que me gustarian explorar, especialmente los patrones visuales, en donde se podrian hacer cosas mas interesantes. En general, siento que si tuviera que evaluar mi desempeño, este seria de un 4,5. Me hubiera gustado haber dado respuestas mas creativas, pero pienso que mi desempeño en las actividades es satisfactorio.
