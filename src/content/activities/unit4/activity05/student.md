@@ -9,7 +9,7 @@ https://p5js.org/examples/repetition-kaleidoscope/
 https://editor.p5js.org/nthqwerty/sketches/ZobnDMLgv
 
 - Enlace a la aplicación modificada en el editor de p5.js
-- 
+  
 https://editor.p5js.org/nthqwerty/sketches/my3tCdycN
 
 - Capturas de pantalla del canvas de tu aplicación modificada
